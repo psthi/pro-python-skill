@@ -18,6 +18,11 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install pyyaml
+
       - name: Validate SKILL.md and Chapter Structure
         run: |
           python3 scripts/validate_skill.py
