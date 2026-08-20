@@ -203,3 +203,4 @@ Located in [`examples/`](examples/):
 
 - **Skill Wrapper License**: [Apache-2.0](LICENSE)
 - **Source Attribution**: Based on *"Pro Python"* by Marty Alchin (Apress, 2010), synthesized and modernized for Python 3.10–3.13+ coding agents.
+- **Framework & Tooling Credit**: Structured and generated using the [book-to-skill](https://github.com/virgiliojr94/book-to-skill) framework by [@virgiliojr94](https://github.com/virgiliojr94).

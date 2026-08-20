@@ -7,6 +7,7 @@ metadata:
   author: "Marty Alchin"
   publisher: "Apress"
   modernized_for: "Python 3.10 - 3.13+"
+  framework: "book-to-skill (https://github.com/virgiliojr94/book-to-skill)"
   compiled: "2026-08-19"
 ---
 
