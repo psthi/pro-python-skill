@@ -1,0 +1,17 @@
+{
+  "name": "@agentskills/pro-python",
+  "version": "1.0.0",
+  "description": "Modernized Pro Python knowledge base and OOP design pattern skill for AI coding agents.",
+  "keywords": [
+    "python",
+    "pro-python",
+    "metaclasses",
+    "decorators",
+    "descriptors",
+    "mro",
+    "agentic-ai"
+  ],
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "SKILL.md"
+}

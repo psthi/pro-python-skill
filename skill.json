@@ -1,0 +1,48 @@
+{
+  "name": "pro-python",
+  "version": "1.0.0",
+  "displayName": "Pro Python Knowledge Base & Architecture Skill",
+  "description": "Universal AI Agent Skill distilling Marty Alchin's 'Pro Python' (Apress), modernized for Python 3.10-3.13+. Covers Metaclasses, __init_subclass__, Descriptors, MRO/super(), Dunder Protocols vs typing.Protocol, Decorator architecture, Memory Management, and Declarative Framework Design.",
+  "author": "Marty Alchin / Modernized by AI Community",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/psthi/pro-python-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psthi/pro-python-skill.git"
+  },
+  "keywords": [
+    "python",
+    "pro-python",
+    "python-oop",
+    "metaclasses",
+    "descriptors",
+    "mro",
+    "init-subclass",
+    "protocols",
+    "typing-protocol",
+    "decorators",
+    "paramspec",
+    "declarative-framework",
+    "dataclasses",
+    "c3-linearization",
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "gemini-cli",
+    "antigravity",
+    "hermes-agent",
+    "nanobot",
+    "picoclaw"
+  ],
+  "categories": [
+    "Programming Languages",
+    "Software Architecture",
+    "Python Frameworks",
+    "AI Agent Skills"
+  ],
+  "main": "SKILL.md",
+  "scripts": {
+    "validate": "python3 scripts/validate_skill.py",
+    "install-local": "bash scripts/install.sh"
+  }
+}
